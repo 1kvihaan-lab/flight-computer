@@ -9,9 +9,6 @@ The board is designed to be built cheaply and in small volumes: two copper layer
 microvias. Everything on it can be assembled by a standard turnkey PCBA service
 such as PCBWay.
 
-> **Status:** Rev B prototype. Schematic and layout are complete and the board
-> fabricates, but the design has not yet passed a clean DRC and has not been
-> electrically validated on a built board. See [Known Issues](#known-issues).
 
 ---
 
