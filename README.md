@@ -9,6 +9,9 @@ The board is designed to be built cheaply and in small volumes: two copper layer
 microvias. Everything on it can be assembled by a standard turnkey PCBA service
 such as PCBWay.
 
+<img width="817" height="813" alt="pcb (2)" src="https://github.com/user-attachments/assets/908ba5b3-0a82-40e7-a5c3-906c423f1ce0" />
+<img width="542" height="767" alt="PCB" src="https://github.com/user-attachments/assets/86b8701e-1e36-43a6-808c-46d90a184062" />
+<img width="1152" height="802" alt="Schematic" src="https://github.com/user-attachments/assets/2d94941d-b03a-41f4-ab5a-c5e2d3be8784" />
 
 ---
 
